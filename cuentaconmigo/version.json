@@ -1,6 +1,6 @@
-  {
-    "versionCode": 1,
-    "versionName": "1.0",
-    "apkUrl": "https://github.com/daniospina9/releases/releases/download/cuentaconmigo-v1.0/cuentaconmigo-1.0.apk",
-    "notes": "Primera version firmada con la llave de release."
-  }
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/daniospina9/releases/releases/download/cuentaconmigo-v1.1/cuentaconmigo-1.1.apk",
+  "notes": "El aviso de \"ya tienes la ultima version\" ahora respeta la barra de navegacion del sistema."
+}
