@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/daniospina9/releases/releases/download/cuentaconmigo-v1.1/cuentaconmigo-1.1.apk",
-  "notes": "El aviso de \"ya tienes la ultima version\" ahora respeta la barra de navegacion del sistema."
+  "versionCode": 3,
+  "versionName": "1.2",
+  "apkUrl": "https://github.com/daniospina9/releases/releases/download/cuentaconmigo-v1.2/cuentaconmigo-1.2.apk",
+  "notes": "Ya puedes exportar el informe personalizado a Excel y compartirlo desde la app."
 }
